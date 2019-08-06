@@ -12,6 +12,7 @@ PROJECT START STEPS:
         1.a. Go to the project root directory.
         1.b. Run the following commands in the terminal/command line to build the app:
             - npm install
+            - gem install compass (if not working, then try "sudo gem install compass")
             - bower install --allow-root (if running via sudo else just enter "bower install")
             - grunt --force
         1.c. Run the following command(s) in the terminal/command line to run the app:    
