@@ -9,6 +9,7 @@ IMPORTANT NOTES:
     4. Make sure you follow the steps mentioned under "PROJECT START STEPS" and ensure that the steps execute successfully. 
     5. Make sure you follow the steps mentioned under "DOCKER START STEPS" and ensure that the steps execute successfully. 
 
+
 PROJECT START STEPS:
 
     Pre-requisites:
@@ -45,6 +46,7 @@ DOCKER START STEPS:
             - docker run -i -p4200:4200 cj-app        
 
     3. Go to http://localhost:4200 in your browser to view it.
+
 
 DOCKER STOP STEPS:
 
