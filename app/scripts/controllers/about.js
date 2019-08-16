@@ -8,7 +8,8 @@
  * Controller of the cjAppApp
  */
 angular.module('cjAppApp')
-  .controller('AboutCtrl', function () {
+  .controller('AboutCtrl', function (API_URL) {
+    console.log(API_URL);
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
